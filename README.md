@@ -63,5 +63,5 @@ If you don’t have Tableau Desktop, you can view the dashboard on Tableau Publi
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to reach out via [LinkedIn](#) www.linkedin.com/in/aryabhor1001
+For questions or collaboration, feel free to reach out via www.linkedin.com/in/aryabhor1001
 
