@@ -57,7 +57,7 @@ The objective of this analysis is to track and understand Amazon's sales distrib
 ## 🔗 Tableau Public
 
 If you don’t have Tableau Desktop, you can view the dashboard on Tableau Public:  
-👉 [View Dashboard](#) *(https://public.tableau.com/app/profile/arya.bhor/viz/AmazonSalesDashboard_17459152751710/Dashboard1)*
+👉 View Dashboard(#) *(https://public.tableau.com/app/profile/arya.bhor/viz/AmazonSalesDashboard_17459152751710/Dashboard1)*
 
 ---
 
