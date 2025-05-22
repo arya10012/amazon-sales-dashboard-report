@@ -43,9 +43,11 @@ The objective of this analysis is to track and understand Amazon's sales distrib
 - Bar Chart: Top 10 States by Quantity and Category
 
 ---
+
 ## 🖼️ Dashboard Preview
 
-![Amazon Sales Dashboard](./Amazon Sales Dashboard (1).png)
+![Amazon Sales Dashboard](https://github.com/arya10012/amazon-sales-dashboard-report/raw/main/Amazon%20Sales%20Dashboard%20(1).png)
+
 
 ---
 
